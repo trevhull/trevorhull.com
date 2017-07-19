@@ -22,9 +22,17 @@ body{
 	text-align: left;
 }
 
+.main_page a{
+    
+    margin-top: 100px;
+    font-size: 25px;
+    text-align: left;
+    color: #ff1a0c;
+}
+
 .contact p{
 	margin-left: 50px;
-	margin-top: 200px;
+	margin-top: 100px;
 	font-size: 30px;
 	font-weight: bold;
 	text-align: left;
@@ -42,8 +50,8 @@ body{
 	color: #ff1a0c;
 }
 .wintershow p{
-        margin-right: 50px;
-        margin-top: 200px;
+        margin-left: 50px;
+        margin-top: 100px;
         font-size: 30px;
         font-weight: bold;
         text-align: left;
@@ -54,8 +62,13 @@ body{
 .wintershow li{
 	font-size: 20px;
 	list-style-type: none;
-	margin-right: 50 px;
+	margin-left: 50px;
 }
+
+.wintershow a{
+    color: #ff1a0c;
+}
+
 .shoutouts {
 	position: relative;
 	top: 800px;	
